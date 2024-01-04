@@ -21,7 +21,7 @@ This project uses [Make](https://www.gnu.org/software/make/). The Makefile has f
 
 ## How to build and run
 
-1. Clone the project repository: `git clone https://github.com/Y-Hegazi/Linux-System-Monitor-.git`
+1. Clone the project repository: `git clone https://github.com/ThabetElmahdy/System-monitor.git`
 
 2. install ncurses using the command above. 
 
